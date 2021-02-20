@@ -1,0 +1,11 @@
+枚举
+DNS枚举工具
+DNSenum
+dnsenum --enum
+--threads [number]：设置用户同时运行多个进程数。
+-r：允许用户启用递归查询。
+-d：允许用户设置WHOIS请求之间时间延迟数（单位为秒）。
+-o：允许用户指定输出位置。
+-w：允许用户启用WHOIS请求。
+
+Fierce
